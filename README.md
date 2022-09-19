@@ -162,14 +162,11 @@
 
 ---
 
-<p>
-	<script src="https://embed.github.com/view/3d/ludovictuccio/skyline/master/ludovictuccio-2021.stl"></script>
-</p
-
- 
-
-
 <div align="center">
+ 
+ [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+ 
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
  
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ludovictuccio&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
