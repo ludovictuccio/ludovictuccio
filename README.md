@@ -43,7 +43,7 @@
 
  <div align="right">
   
-  <a href="">![discord](https://dcbadge.vercel.app/api/shield/489898608548642816?logoColor=ff6b6b)</a>
+  <a href="https://discord.gg/gbZVGNwv">![discord](https://dcbadge.vercel.app/api/shield/489898608548642816?logoColor=ff6b6b)</a>
   
   <a href="https://www.linkedin.com/in/ludovic-tuccio/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   
