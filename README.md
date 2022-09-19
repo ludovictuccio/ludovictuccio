@@ -20,10 +20,15 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://github.com/ludovictuccio?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ludovictuccio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-     <a href="https://github.com/ludovictuccio?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-55960c?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/ludovictuccio?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-55960c?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  </p>
+  <p align="center">
+      <a href="https://github.com/ludovictuccio?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ludovictuccio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow-me&logoColor=white"/></a>  
 </p>
+
+![watchers](https://img.shields.io/github/watchers/ludovictuccio/ludovictuccio?style=social)
+![followers](https://img.shields.io/github/followers/ludovictuccio?style=social)
 
 
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -40,15 +45,11 @@
 
 <br/>
 
-## 🛠️ My favorite tools
-
 ### 👨‍💻 Backend
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+![java](https://img.shields.io/badge/JAVA-F80000.svg?style=for-the-badge)
+![tibco bw5](https://img.shields.io/badge/TIBCO%20BW5-FE7A16.svg?style=for-the-badge)
 
-  Tibco
-</p>
 
 ### 👨‍💻 Frontend
 
@@ -61,17 +62,25 @@
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![JUNIT5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+## 🛠️ Tests
+
+![JUNIT5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
+![mockito](https://img.shields.io/badge/Mockito-%230db7ed.svg?style=for-the-badge)
+![jacoco](https://img.shields.io/badge/JaCoCo-FF6C37?style=for-the-badge)
+![assertj](https://img.shields.io/badge/-AssertJ-%23Clojure?style=for-the-badge)
+
 
 ### 🕓 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-FE7A16.svg?style=for-the-badge)
 
 ### 📂 Cloud Storage
 
@@ -89,19 +98,17 @@
 ![github pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
-
+![spring data jpa](https://img.shields.io/badge/Spring%20Data%20JPA-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ### 💻 Software and tools
 
-![google sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![google sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![stack over flow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-
 
 ### 🔬 CI
 
