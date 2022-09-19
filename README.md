@@ -1,4 +1,4 @@
-  <div align="left">
+ <div align="left">
   
   <a href="">![visitor badge](https://komarev.com/ghpvc/?username=ludovictuccio&label=PROFILE+VIEWS)</a>
   
@@ -149,7 +149,13 @@
 <!-- https://github.com/ludovictuccio/github-readme-stats -->
   
   <br/>
+  
   <p align="center">
-    <a href="https://github.com/ludovictuccio/github-readme-stats"><img alt="ludovictuccio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ludovictuccio&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <a href="https://github.com/ludovictuccio/github-readme-stats"><img alt="ludovictuccio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ludovictuccio&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>      
 </p>
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+    
+<div align="left">
+  <a href=""></a> 
+</div>
+
+<p>Note : Commits number is calculated over the duration of the last 365 days.</p>
