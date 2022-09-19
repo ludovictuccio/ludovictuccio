@@ -57,6 +57,8 @@
 
 <h3 align="center"> 👨‍💻 Backend </h3>
 
+ </br>
+ 
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
 ![java](https://img.shields.io/badge/JAVA-F80000.svg?style=for-the-badge)
@@ -66,6 +68,8 @@
 
 <h3 align="center"> 💻 Frontend </h3>
 
+ </br>
+ 
 [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tibco&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
@@ -81,6 +85,8 @@
 
 <h3 align="center"> 🧰 Frameworks and libraries </h3>
 
+ </br>
+ 
 [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
@@ -104,6 +110,8 @@
 
 <h3 align="center"> 🛠️ Tests </h3>
 
+ </br>
+ 
 ![JUNIT5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
 ![mockito](https://img.shields.io/badge/Mockito-%230db7ed.svg?style=for-the-badge)
 ![jacoco](https://img.shields.io/badge/JaCoCo-FF6C37?style=for-the-badge)
@@ -113,6 +121,8 @@
 
 <h3 align="center"> 🕓 Version Control </h3>
 
+ </br>
+ 
 [![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
@@ -130,6 +140,8 @@
 
 <h3 align="center"> 📂 Cloud Storage </h3>
 
+ </br>
+ 
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
@@ -139,6 +151,8 @@
 
 <h3 align="center"> 🗄️ Databases </h3>
 
+ </br>
+ 
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
@@ -159,6 +173,8 @@
 
 <h3 align="center"> 💻 Software and tools </h3>
 
+ </br>
+ 
 [![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
@@ -177,6 +193,8 @@
 
 <h3 align="center"> 🔬 CI </h3>
 
+ </br>
+ 
 [![My Skills](https://skillicons.dev/icons?i=jenkins&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
@@ -190,6 +208,8 @@
 
 <h3 align="center"> 💻 IDEs </h3>
 
+ </br>
+ 
 [![My Skills](https://skillicons.dev/icons?i=eclipse&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
