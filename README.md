@@ -53,6 +53,8 @@
 
   </br>
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,bootstrap,html,css,docker,eclipse,git,github,gitlab,gradle,hibernate,jenkins,maven,mongodb,mysql,postgres,react,stackoverflow,visualstudio,&theme=light&perline=10)](https://skillicons.dev)
+
 ---
 
 ### 👨‍💻 Backend
