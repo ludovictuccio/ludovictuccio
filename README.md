@@ -1,3 +1,9 @@
+ <div align="center">
+ 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ludovictuccio&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
+
  <div align="left">
   
   <a href="">![visitor badge](https://komarev.com/ghpvc/?username=ludovictuccio&label=PROFILE+VIEWS)</a>
