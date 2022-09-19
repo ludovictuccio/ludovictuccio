@@ -1,3 +1,17 @@
+  <div align="left">
+  
+  <a href="">![visitor badge](https://komarev.com/ghpvc/?username=ludovictuccio&label=PROFILE+VIEWS)</a>
+  
+</div>
+
+<div align="right">
+  
+  <a href="">![watchers](https://img.shields.io/github/watchers/ludovictuccio/ludovictuccio?style=social)</a>
+  </br>
+  <a href="">![followers](https://img.shields.io/github/followers/ludovictuccio?style=social)</a>
+  
+</div>
+
 <h3 align="center">
   Welcome to Ludovic TUCCIO's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -20,30 +34,26 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://github.com/ludovictuccio?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repositories-55960c?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/ludovictuccio?tab=repositories&sort=stargazers"><img alt="All My Repositories" title="All My Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Repositories-55960c?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
   <p align="center">
       <a href="https://github.com/ludovictuccio?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ludovictuccio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow-me&logoColor=white"/></a>  
 </p>
 
-![watchers](https://img.shields.io/github/watchers/ludovictuccio/ludovictuccio?style=social)
-![followers](https://img.shields.io/github/followers/ludovictuccio?style=social)
+ <div align="right">
+  
+  <a href="">![discord](https://dcbadge.vercel.app/api/shield/489898608548642816?logoColor=ff6b6b)</a>
+  
+  <a href="https://www.linkedin.com/in/ludovic-tuccio/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  
+  <a href="ludovic.tuccio@hotmail.fr">![Outlook](https://img.shields.io/badge/Send%20Me%20A%20MAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 
+</div>
 
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
-![discord](https://dcbadge.vercel.app/api/shield/489898608548642816?logoColor=ff6b6b)
-
-![visitor badge](https://komarev.com/ghpvc/?username=ludovictuccio&label=PROFILE+VIEWS)
+  </br>
 
 ---
-
-<br/>
 
 ### 👨‍💻 Backend
 
@@ -51,7 +61,7 @@
 ![tibco bw5](https://img.shields.io/badge/TIBCO%20BW5-FE7A16.svg?style=for-the-badge)
 
 
-### 👨‍💻 Frontend
+### 💻 Frontend
 
 ![REACT](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
@@ -87,16 +97,15 @@
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
+![github pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
 
-### 🗄️ Databases and cloud hosting
+### 🗄️ Databases
 
 ![mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![github pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
-
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![spring data jpa](https://img.shields.io/badge/Spring%20Data%20JPA-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
@@ -122,7 +131,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br/>
+---
 
 ## 🔥 Streak stats
 
