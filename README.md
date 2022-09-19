@@ -1,10 +1,4 @@
- <div align="center">
- 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ludovictuccio&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
-</div>
-
- <div align="left">
+<div align="left">
   
   <a href="">![visitor badge](https://komarev.com/ghpvc/?username=ludovictuccio&label=PROFILE+VIEWS)</a>
   
@@ -165,3 +159,11 @@
 </div>
 
 <p>Note : Commits number is calculated over the duration of the last 365 days.</p>
+
+---
+
+<div align="center">
+ 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ludovictuccio&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
