@@ -53,31 +53,54 @@
 
   </br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,bootstrap,html,css,docker,eclipse,git,github,gitlab,gradle,hibernate,jenkins,maven,mongodb,mysql,postgres,react,stackoverflow,visualstudio,&theme=light&perline=10)](https://skillicons.dev)
-
 ---
 
 ### 👨‍💻 Backend
 
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+
 ![java](https://img.shields.io/badge/JAVA-F80000.svg?style=for-the-badge)
 ![tibco bw5](https://img.shields.io/badge/TIBCO%20BW5-FE7A16.svg?style=for-the-badge)
 
+---
 
 ### 💻 Frontend
 
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tibco&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tibco&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
+
 ![REACT](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+
+---
 
 ### 🧰 Frameworks and libraries
+
+[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gradle&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven&theme=light)](https://skillicons.dev)
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
+---
 
 ## 🛠️ Tests
 
@@ -86,13 +109,24 @@
 ![jacoco](https://img.shields.io/badge/JaCoCo-FF6C37?style=for-the-badge)
 ![assertj](https://img.shields.io/badge/-AssertJ-%23Clojure?style=for-the-badge)
 
+---
 
 ### 🕓 Version Control
+
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-FE7A16.svg?style=for-the-badge)
+
+---
 
 ### 📂 Cloud Storage
 
@@ -101,33 +135,68 @@
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
 ![github pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 
+---
 
 ### 🗄️ Databases
 
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=hibernate&theme=light)](https://skillicons.dev)
+
 ![mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![spring data jpa](https://img.shields.io/badge/Spring%20Data%20JPA-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
+
+---
 
 ### 💻 Software and tools
 
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
+
+![stack over flow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![google sheets](https://img.shields.io/badge/Google%20Sheets-34A853.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![stack over flow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+---
+
 ### 🔬 CI
 
+[![My Skills](https://skillicons.dev/icons?i=jenkins&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab&theme=light)](https://skillicons.dev)
+
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
 
 💻 IDEs
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xxx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio&theme=light)](https://skillicons.dev)
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
