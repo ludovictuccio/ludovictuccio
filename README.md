@@ -46,8 +46,7 @@
   <a href="https://discord.gg/gbZVGNwv">![discord](https://dcbadge.vercel.app/api/shield/489898608548642816?logoColor=ff6b6b)</a>
   
   <a href="https://www.linkedin.com/in/ludovic-tuccio/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  
-  <a href="mailto:ludovic.tuccio@hotmail.fr">![Outlook](https://img.shields.io/badge/Send%20Me%20A%20MAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
+ 
 
 </div>
 
